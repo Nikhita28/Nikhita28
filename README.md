@@ -31,7 +31,7 @@
 <summary>✅ GitHub Analytics</summary>
 <p align="left">
 <a href="https://github.com/nikhita28">
-  <img height="160em" src="https://github-readme-stats-git-master-manojuppala.vercel.app/api?username=Nikhita28&&show_icons=true&title_color=ffffff&icon_color=3DEA6F&text_color=3DEA6F&bg_color=091258" />
+  <img height="160em" src="https://github-readme-stats-git-master-manojuppala.vercel.app/api?username=Nikhita28&&show_icons=true&title_color=56db67&icon_color=3DEA6F&text_color=f2c744&bg_color=000000" />
 </a>
 </p>
 
