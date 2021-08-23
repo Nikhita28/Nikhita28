@@ -3,9 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhita28/)
 ### 👨🏻‍💻 About Me
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://github.com/nikhita28/nikhita28/blob/main/assets/code.png?raw=true' width='200' height='200'>
 
-- 📈 I'm a Web DevelopmentEnthusiast!
+- 📈 I'm a Web Development Enthusiast!
 - 💻 I am a 1st year computer science undergrad at Jalpaiguri Government Engineering College.
 - 🌱 I am also trying to step into competitive programming.
 - ⚡ Learning something new everyday keps my dopamine levels high.
@@ -53,21 +53,9 @@
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/nikhita28/count.svg" />
   </br>
-      <img align="center" alt="GIF" src="https://github.com/manojuppala/manojuppala/blob/master/assets/code.gif?raw=true" width="750" height="520" />
+      <img align="center" alt="img" src="https://github.com/nikhita28/nikhita28/blob/main/assets/image.png?raw=true" width="500" height="500" />
 </p>
 
 [github]: https://github.com/nikhita28
 [linkedin]: https://www.linkedin.com/in/nikhita28/
-<!-- [vscode]: https://code.visualstudio.com/
-[python]: https://www.python.org/doc/
-[java]: https://docs.oracle.com/en/java/
-[rlang]: https://github.com/manojuppala/R-programming
-[matlab]: https://www.mathworks.com/products/matlab.html
-[tableau]: https://www.tableau.com/
-[git]: https://git-scm.com/doc
-[github]: https://github.com/
-[c++]: https://devdocs.io/cpp/
-[c]: https://devdocs.io/c/
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20(CSS)%20is,speech%2C%20or%20on%20other%20media.
-[html]: https://devdocs.io/html/
- -->
+
