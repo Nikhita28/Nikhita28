@@ -6,7 +6,7 @@
 <img align='right' src='https://github.com/nikhita28/nikhita28/blob/main/assets/code.png?raw=true' width='200' height='200'>
 
 - 📈 I'm a Web Development Enthusiast!
-- 💻 I am a 1st year computer science undergrad at Jalpaiguri Government Engineering College.
+- 💻 I am a 2nd year computer science undergrad at Jalpaiguri Government Engineering College.
 - 🌱 I am also trying to step into competitive programming.
 - ⚡ Learning something new everyday keps my dopamine levels high.
 
