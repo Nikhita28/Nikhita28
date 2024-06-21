@@ -5,9 +5,8 @@
 
 <img align='right' src='https://github.com/nikhita28/nikhita28/blob/main/assets/code.png?raw=true' width='200' height='200'>
 
-- 📈 I'm a Web Development Enthusiast!
-- 💻 I am a 3rd year computer science undergrad at Jalpaiguri Government Engineering College.
-- 🌱 I am also trying to step into competitive programming.
+- 📈 I'm a passionate software engineer!
+- 💻 I have graduated from Jalpaiguri Government Engineering College in 2024.
 - ⚡ Learning something new everyday keps my dopamine levels high.
 
 ---
@@ -45,8 +44,9 @@
 ---
 
 ### 🏄follow me on
-
 [![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhita28)
+
+
 
 
 <p align="center"> 
